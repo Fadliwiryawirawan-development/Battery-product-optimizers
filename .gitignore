@@ -1,6 +1,33 @@
-*.class
-*.tasty
-*.log
+# For PCBs designed using KiCad: http://www.kicad-pcb.org/
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+# Temporary files
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*~
+_autosave-*
+*.tmp
+
+# Netlist files (exported from Eeschema)
+*.net
+
+# Autorouter files (exported from Pcbnew)
+*.dsn
+*.ses
+
+# Exported BOM files
+*.xml
+*.csv
+
+# PCB files
+*.kicad_pcb
+*.gbr
+*.drl
+*.zip
+
+#DOC files
+*.docx
+
+Private/ENNOID/
+
