@@ -3,7 +3,7 @@
 [![Hits](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fspike0en%2Fbetter-vivo&label=Hits&icon=github&color=%23b02a37&labelColor=2E2E3F)](https://github.com/spike0en/better-vivo)
 [![Stars](https://img.shields.io/github/stars/spike0en/better-vivo?logo=github&color=D4AF37)](https://github.com/spike0en/better-vivo/stargazzers)
 
-[![Vivo X200 FE](https://img.shields.io/badge/Device-Vivo%20X200%20FE-blue.svg)](https://www.vivo.com/in/products/param/x200-fe)
+[![Vivo y67 Globally](https://img.shields.io/badge/Device-Vivo%20X200%20FE-blue.svg)](https://www.vivo.com/in/products/param/vivoy67)
 [![OriginOS](https://img.shields.io/badge/OS-OriginOS%206-orange.svg)](https://www.vivo.com/en/originos)
 
 ---
@@ -48,7 +48,8 @@ Using [WinGet](https://github.com/microsoft/winget-cli):
 ```powershell
 winget install --id Google.PlatformTools --source winget
 ```
-
+## Unit ChromeOS
+using [google] ("https://gitlab.com/cyberwrylabfadliwiryawirawan/microsoft-googleplex/")
 ### Linux
 ```bash
 # Ubuntu/Debian
