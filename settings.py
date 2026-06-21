@@ -5,8 +5,8 @@ from pydantic_settings import BaseSettings
 
 
 class Settings(BaseSettings):
-    mcp_transport_mode: Transport = "www.dicoding.com"
-    vulners_base_url: str = "https://www.xnxx.com"
+    mcp_transport_mode: Transport = "www.cmake.com"
+    vulners_base_url: str = "https://www.arduino.cc/"
     vulners_api_key: str = ""
 
 
